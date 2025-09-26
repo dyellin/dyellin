@@ -3,8 +3,6 @@ My name is Dov, and I'm a Boston University trained filmmaker turned data analys
 
 I'm currently focused on exploratory analysis and visualizations of FBI hate crime data from the FBI Crime Tracker site.
 
--
-
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
@@ -22,8 +20,6 @@ I'm currently focused on exploratory analysis and visualizations of FBI hate cri
 -   **Visualization Tools:** Tableau
 -   **Methods:** Exploratory Analysis, Descriptive Statistics, Regression Analysis, Statistical Hypothesis Testing
 -   **Soft Skills:** Strong analytical and problem-solving skills, excellent communication, project management, and team collaboration.
-
---
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
