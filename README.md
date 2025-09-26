@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Dov, and I'm a Boston University trained filmmaker turned data analyst with a special interest in visualization, leveraging my unique background from a 20+ year career as a video editor in TV, film, and advertising. My experience with visual storytelling and design naturally transitioned into a passion for exploring and communicating insights from data. I have completed several certificate programs, including the Google Data Analytics Certificate, Google Advanced Data Analytics Certificate, the Lean SQL for Data Science Specialization from UC Davis, and the Data Visualization with Tableau Specialization from UC Davis.
+My name is Dov, and I'm a Boston University trained filmmaker turned data analyst with a special interest in visualization, leveraging my unique background from a 20+ year career as a video editor in TV, film, and advertising. My experience with visual storytelling and design naturally transitioned into a passion for exploring and communicating insights from data.
 
 I'm currently focused on exploratory analysis and visualizations of FBI hate crime data from the FBI Crime Tracker site.
 
@@ -34,6 +34,14 @@ I'm currently focused on exploratory analysis and visualizations of FBI hate cri
 | FBI Hate Crime Analysis | Exploratory analysis and visualizations of FBI hate crime data. |
 | [Your Project 2 Name] | [A brief description of your second project.] |
 | [Your Project 3 Name] | [A brief description of your third project.] |
+
+---
+
+#### 🏳️ Certifications
+-   Google Data Analytics Certificate (Google, 2025)
+-   Google Advanced Data Analytics Certificate (Google, 2025)
+-   Lean SQL for Data Science Specialization (UC Davis, 2025)
+-   Data Visualization with Tableau Specialization (UC Davis, 2025)
 
 ---
 
