@@ -15,6 +15,8 @@ I'm currently focused on exploratory analysis and visualizations of FBI hate cri
 
 ---
 
+[![My Skills](https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev))](https://skillicons.dev)
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,au,ai, linkedin, ps, postgres, pr, py, r, sqlite, wordpress" />
