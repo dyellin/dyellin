@@ -31,13 +31,14 @@ I'm currently focused on exploratory analysis and visualizations of FBI hate cri
 
 | Project | Description |
 |---|---|
-| FBI Hate Crime Analysis | Exploratory analysis and visualizations of FBI hate crime data. |
-| [Your Project 2 Name] | [A brief description of your second project.] |
-| [Your Project 3 Name] | [A brief description of your third project.] |
+| FBI Hate Crime Analysis | Discover trends and/or correlations between the offenders, the offenses, and when they occured. |
+| TSA Claims Analysis | Identifiy claim patterns that can improve efficiency and financial solvency. |
+| Operating Room Efficiency Study | Find operating room scheduling inefficiences and any root causes. |
+| 120 Years of the Olympics | For the Learn SQL Basics for Data Science Certification, test hypotheses of whether (1) there is an advantage for athletes from the host country; (2) competing in multiple events affect outcomes; (3) there is a correlation between physical attributes and winning medals. |
 
 ---
 
-#### 🏳️ Certifications
+### 🏳️ Certifications
 -   Google Data Analytics Certificate (Google, 2025)
 -   Google Advanced Data Analytics Certificate (Google, 2025)
 -   Lean SQL for Data Science Specialization (UC Davis, 2025)
