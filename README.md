@@ -17,7 +17,7 @@ I'm currently focused on exploratory analysis and visualizations of FBI hate cri
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae,au,ai,linkedin,ps,postgres,pr,py,r,sqlite,wordpress" />
+    <img src="https://skillicons.dev/icons?i=pr,ae,ps,ai,linkedin,github,postgres,sqlite,py,r" />
   </a>
 </p>
 
@@ -49,8 +49,8 @@ I'm currently focused on exploratory analysis and visualizations of FBI hate cri
 
 ### 🔗 Let's Connect
 
--   **My Data Analyst Site:** [GitHub Pages Profile](https://dyellin.github.io/) [icon]
+-   **My Data Analyst Site:** [GitHub Pages Profile](https://dyellin.github.io/) [<img src="https://skillicons.dev/icons?i=github" />]
 -   **Resume:** [Data Analyst Resume](https://github.com/dyellin/dyellin.github.io/blob/3ded6fd394ae385c491d13fdccf6072fb92098d7/DovYellin_DataAnalyst.pdf) [icon]
 -   **Tableau Public Profile:** [Tableau Public](https://public.tableau.com/app/profile/dov.yellin/vizzes) [icon]
--   **LinkedIn:** [Connect with me](https://www.linkedin.com/in/dovyellin/) [icon]
+-   **LinkedIn:** [Connect with me](https://www.linkedin.com/in/dovyellin/) [<img src="https://skillicons.dev/icons?i=linkedin" />]
 -   **Video Editor Site:** [Dov Yellin - Video Editor](http://www.dovyellin.com/) [icon]
