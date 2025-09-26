@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/YOUR_USERNAME" width="150px;" alt="Your Profile Picture"/>
+  <br />
+  <br />
   <h1>Dov Yellin</h1>
   <h3>Data Analyst | Storyteller | Visual Designer</h3>
 </div>
