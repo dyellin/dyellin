@@ -1,23 +1,48 @@
-<h1 align="center">Hi 👋, I'm Dov</h1>
-<h3 align="center">A video editor turned data analyst</h3>
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/YOUR_USERNAME" width="150px;" alt="Your Profile Picture"/>
+  <br />
+  <br />
+  <h1>Dov Yellin</h1>
+  <h3>Data Analyst | Storyteller | Visual Designer</h3>
+</div>
 
-- 🔭 I’m currently working on **exploring the FBI Data Tracker**
+---
 
-- 🌱 I’m currently learning **advanced analytics**
+### 🌟 About Me
+I'm a data analyst with a special interest in visualization, leveraging a unique background from a 20+ year career as a video editor in TV, film, and advertising. I studied film at Boston University (B.S.), and my experience with visual storytelling and design naturally transitioned into a passion for exploring and communicating insights from data. I have completed several certificate programs, including the Google Data Analytics Certificate, Google Advanced Data Analytics Certificate, the Lean SQL for Data Science Specialization from UC Davis, and the Data Visualization with Tableau Specialization from UC Davis.
 
-- 👯 I’m looking to collaborate on **social action and public policy projects**
+I'm currently focused on exploratory analysis and visualizations of FBI hate crime data from the FBI Crime Tracker site.
 
-- 👨‍💻 All of my projects are available at [https://dyellin.github.io](https://dyellin.github.io)
+---
 
-- 💬 Ask me about **video editing, photography, and drumming!**
+### 🛠️ Skills & Tools
 
-- 📫 How to reach me **dyellin13@gmail.com**
+#### Data Analytics & Visualization
+-   **Software:** Excel, Google Sheets, SQL, Python, R
+-   **Visualization Tools:** Tableau
+-   **Methods:** Exploratory Analysis, Descriptive Statistics, Regression Analysis, Statistical Hypothesis Testing
+-   **Soft Skills:** Strong analytical and problem-solving skills, excellent communication, project management, and team collaboration.
 
-- 📄 Know about my experiences [https://github.com/dyellin/dyellin.github.io/blob/3ded6fd394ae385c491d13fdccf6072fb92098d7/DovYellin_DataAnalyst.pdf](https://github.com/dyellin/dyellin.github.io/blob/3ded6fd394ae385c491d13fdccf6072fb92098d7/DovYellin_DataAnalyst.pdf)
+#### Video Editing
+-   **Software:** Adobe Creative Suite (Premiere Pro, After Effects, Photoshop, Lightroom, Illustrator, Audition, InDesign)
+-   **Methods:** Visual Design, Video Editing
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 📂 Projects & Portfolio
+
+| Project | Description |
+|---|---|
+| FBI Hate Crime Analysis | Exploratory analysis and visualizations of FBI hate crime data. |
+| [Your Project 2 Name] | [A brief description of your second project.] |
+| [Your Project 3 Name] | [A brief description of your third project.] |
+
+---
+
+### 🔗 Let's Connect
+
+-   **My Data Analyst Site:** [GitHub Pages Profile](https://dyellin.github.io/) [icon]
+-   **Resume:** [Data Analyst Resume](https://github.com/dyellin/dyellin.github.io/blob/3ded6fd394ae385c491d13fdccf6072fb92098d7/DovYellin_DataAnalyst.pdf) [icon]
+-   **Tableau Public Profile:** [Tableau Public](https://public.tableau.com/app/profile/dov.yellin/vizzes) [icon]
+-   **LinkedIn:** [Connect with me](https://www.linkedin.com/in/dovyellin/) [icon]
+-   **Video Editor Site:** [Dov Yellin - Video Editor](http://www.dovyellin.com/) [icon]
