@@ -8,7 +8,6 @@ I'm currently focused on exploratory analysis and visualizations of FBI hate cri
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pr,ae,ps,ai,postgres,sqlite,py,r" />
-    <img src="https://github.com/dyellin/dyellin/blob/bcc547bc47a2319cf10e17c674bb4652367821ea/mysql.svg" />
   </a>
 </p>
 
