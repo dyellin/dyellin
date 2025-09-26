@@ -26,7 +26,7 @@ I'm currently focused on exploratory analysis and visualizations of FBI hate cri
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=acrobat,aftereffects,audition,bigquery,chatgpt,creativecloud,davinci,dbeaver,excel,gemini,illustrator,indesign,lightroom,looker,mediaencoder,numpy,photoshop,plotly,postgresql,powerpoint,premiere,python,scikitlearn,seaborn,sqlite,tableau"
+      src="https://go-skill-icons.vercel.app/api/icons?i=bigquery,chatgpt,dbeaver,excel,gemini,looker,numpy,plotly,postgresql,powerpoint,python,scikitlearn,seaborn,sqlite,tableau"
     />
   </a>
 </p>
