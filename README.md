@@ -34,7 +34,7 @@ I'm currently focused on exploratory analysis and visualizations of FBI hate cri
 | FBI Hate Crime Analysis | Discover trends and/or correlations between the offenders, the offenses, and when they occured. |
 | TSA Claims Analysis | Identifiy claim patterns that can improve efficiency and financial solvency. |
 | Operating Room Efficiency Study | Find operating room scheduling inefficiences and any root causes. |
-| 120 Years of the Olympics | For the Learn SQL Basics for Data Science Certification, test hypotheses of whether (1) there is an advantage for athletes from the host country; (2) competing in multiple events affect outcomes; (3) there is a correlation between physical attributes and winning medals. |
+| 120 Years of the Olympics | Hypothesis testing of athlete advantage being from the host nation, competing in multiple events, or physical attributes. |
 
 ---
 
