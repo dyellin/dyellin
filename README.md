@@ -23,9 +23,25 @@ I'm currently focused on exploratory analysis and visualizations of FBI hate cri
 -   **Methods:** Exploratory Analysis, Descriptive Statistics, Regression Analysis, Statistical Hypothesis Testing
 -   **Soft Skills:** Strong analytical and problem-solving skills, excellent communication, project management, and team collaboration.
 
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=acrobat,aftereffects,audition,bigquery,chatgpt,creativecloud,davinci,dbeaver,excel,gemini,illustrator,indesign,lightroom,looker,mediaencoder,numpy,photoshop,plotly,postgresql,powerpoint,premiere,python,scikitlearn,seaborn,sqlite,tableau"
+    />
+  </a>
+</p>
+
 #### Video Editing
 -   **Software:** Adobe Creative Suite (Premiere Pro, After Effects, Photoshop, Lightroom, Illustrator, Audition, InDesign)
 -   **Methods:** Visual Design, Video Editing
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=acrobat,aftereffects,audition,creativecloud,davinci,illustrator,indesign,lightroom,mediaencoder,photoshop,premiere"
+    />
+  </a>
+</p>
 
 ---
 
