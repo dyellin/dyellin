@@ -1,12 +1,3 @@
-<div align="center">
-  <br />
-  <br />
-  <h1>Dov Yellin</h1>
-  <h3>Data Analyst | Storyteller | Visual Designer</h3>
-</div>
-
----
-
 ### 🌟 About Me
 I'm a data analyst with a special interest in visualization, leveraging a unique background from a 20+ year career as a video editor in TV, film, and advertising. I studied film at Boston University (B.S.), and my experience with visual storytelling and design naturally transitioned into a passion for exploring and communicating insights from data. I have completed several certificate programs, including the Google Data Analytics Certificate, Google Advanced Data Analytics Certificate, the Lean SQL for Data Science Specialization from UC Davis, and the Data Visualization with Tableau Specialization from UC Davis.
 
