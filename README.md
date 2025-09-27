@@ -4,10 +4,17 @@ My name is Dov, and I'm a Boston University trained filmmaker turned data analys
 I'm currently focused on exploratory analysis and visualizations of FBI hate crime data from the FBI Crime Tracker site.
 
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=githubpages,linkedin,tableau,youtube"
-    />
+  <a href="https://dyellin.github.io" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=githubpages" />
+  </a>
+  <a href="https://www.linkedin.com/in/dovyellin/" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/dov.yellin/vizzes" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=tableau" />
+  </a>
+  <a href="https://www.dovyellin.com" target="_blank">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" />
   </a>
 </p>
 
