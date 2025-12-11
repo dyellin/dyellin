@@ -72,7 +72,7 @@ I'm currently focused on exploratory analysis and visualizations of FBI hate cri
 ### 🔗 Let's Connect
 
 -   **My Data Analyst Site:** [GitHub Pages Profile](https://dyellin.github.io/)
--   **Resume:** [Data Analyst Resume](https://github.com/dyellin/dyellin.github.io/blob/3ded6fd394ae385c491d13fdccf6072fb92098d7/DovYellin_DataAnalyst.pdf)
+-   **Resume:** [Data Analyst Resume](https://github.com/dyellin/dyellin.github.io/blob/ab4fff337dcad0d24b08e69c5120c80d373fef8a/DovYellin_DataAnalyst_2025.pdf)
 -   **Tableau Public Profile:** [Tableau Public](https://public.tableau.com/app/profile/dov.yellin/vizzes)
 -   **LinkedIn:** [Connect with me](https://www.linkedin.com/in/dovyellin/)
 -   **Video Editor Site:** [Dov Yellin - Video Editor](http://www.dovyellin.com/)
